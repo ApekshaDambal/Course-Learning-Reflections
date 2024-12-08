@@ -1,0 +1,5 @@
+## 9. Algorithm Design Techniques
+Divide and Conquer: This technique involves breaking a problem into smaller subproblems, solving them independently, and combining their results. It is effective for problems that can be recursively divided, as seen in algorithms like merge sort and quick sort.
+Dynamic Programming: This method is used for optimization problems with overlapping subproblems, storing the results of solved subproblems to avoid redundant calculations. It is commonly applied in scenarios like the Fibonacci sequence and the knapsack problem.
+Greedy Algorithms: Greedy techniques make locally optimal choices at each step, aiming for a global optimum. They are particularly useful for problems like minimum spanning trees and activity selection, where local decisions lead to overall efficiency.
+Backtracking: This technique explores all possible solutions by trying partial solutions and abandoning them when they fail to meet criteria. It is commonly applied in constraint satisfaction problems, such as the N-Queens problem and solving mazes.
