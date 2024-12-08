@@ -1,0 +1,5 @@
+## 6. Differentiation Between Trees and Graphs
+Trees and graphs represent data differently and are used for distinct purposes.
+Trees are hierarchical with a single root and no cycles, like family trees or file systems.
+Graphs, on the other hand, are more general, allowing multiple connections and cycles, such as in social networks or transportation systems.
+Trees have specific traversals like preorder, inorder, and postorder for structured data exploration, while graphs use BFS and DFS for navigating interconnected data.
