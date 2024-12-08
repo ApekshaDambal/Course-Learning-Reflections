@@ -1,0 +1,5 @@
+## 3. Takeaways from Chapter 2 Design Principles
+Key design principles include divide and conquer, greedy methods, dynamic programming, and abstraction. Divide and conquer breaks problems into smaller pieces, solves them, and combines the results, like in merge sort.
+Greedy methods focus on making the best choice at every step, such as finding the shortest route in a map.
+Dynamic programming stores solutions to smaller problems to avoid repeating work, like calculating Fibonacci numbers.
+Abstraction helps simplify problems by focusing only on what matters and ignoring extra details, like in object-oriented programming.
