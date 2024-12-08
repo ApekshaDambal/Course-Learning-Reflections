@@ -1,7 +1,6 @@
 # Course-Learning-Reflections
 
-#1. Problems in Nature: Iteration, Recursion, Backtracking
-## Iteration,Recursion,Backtracking
+## 1. Problems in Nature: Iteration, Recursion, Backtracking
 Problems in nature can be solved using iteration, recursion, or backtracking. Iteration involves repeating steps, like counting animal populations or watching seasonal changes. Recursion solves problems by breaking them into smaller parts, such as the patterns of tree branches or fractals in snowflakes. Backtracking explores all possible options and returns to try a different path if needed, like ants searching for food or animals solving mazes.
 
 ## 2. What is space and time efficiency? Why are they important?
