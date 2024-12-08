@@ -1,0 +1,5 @@
+## 5. The Need for Array Query Algorithms
+Array query algorithms help retrieve and update data quickly.
+For example, prefix sums can calculate the total of a range in an array very fast.
+Segment trees and Fenwick trees are advanced tools that allow for both updates and queries efficiently.
+These algorithms are used in applications like tracking scores, stock prices, or rainfall over time.
